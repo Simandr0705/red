@@ -1,0 +1,200 @@
+h1 {
+    
+}
+
+.d {
+    float: left;
+}
+
+.a {
+  float: center;
+}
+
+.j {
+    text-align: left;
+}
+
+.l {
+    background-color: lightgreen;
+    margin: 10px 10px 10px 10px;
+}
+
+span:hover {
+    color: orangered;
+    border: 10px solid blue;
+}
+
+body {
+	background: linear-gradient(lightgrey, grey, lightblue, navy, red, purple, lightgreen, yellow);
+	background-size: 400% 400%;
+	animation: gradient 25s linear;
+}
+ 
+@keyframes gradient {
+	0% {
+		background-position: 50% 0%;
+	}
+	50% {
+		background-position: 50% 100%;
+	}
+	100% {
+		background-position: 50% 0%;
+	}
+}
+
+.hklk {
+    background-color: lightgreen;
+    border: 5px solid blue;
+    margin-right: 459px; 
+}
+
+.hklk:hover {
+    
+}
+
+.ty:hover {
+    opacity: 0.5;
+}
+
+.sd:hover {
+    opacity: 0.5;
+}
+
+.lyk:hover {
+    opacity: 0.5;
+}
+
+.gr:hover {
+    opacity: 0.5;
+}
+
+.uji:hover {
+    opacity: 0.5;
+}
+
+.ik:hover {
+    opacity: 0.5;
+}
+
+.lsded {
+    text-align: center;
+}
+
+.sdf {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blueviolet;
+    color: black;
+    font-size: 27px;
+    text-decoration: none;
+}
+
+.div {
+    float: right;
+}
+
+.jhj {
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+    background-color: navy;
+    color: red;
+    text-decoration: none;
+    border: 1px solid #EF930A;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.jhk {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    background-color: #EF930A;
+    color: black;
+    text-decoration: none;
+    border: 1px solid #EF930A;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.jhk:hover {
+    background-color: lightblue;
+    margin: 10px;
+}
+
+.jhj:hover {
+    opacity: 0.6;
+    background-color: orange;
+}
+
+.sdf:hover {
+    text-transform: uppercase;
+}
+
+.kjj {
+    font-size: 20px;
+    background-color: green;
+    color: black;
+    text-decoration: none;
+    border: 3px dotted navy;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.hgf {
+    font-size: 20px;
+    background-color: red;
+    color: black;
+    text-decoration: none;
+    border: 3px dotted navy;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.lk {
+    font-size: 15px;
+    background-color: darkmagenta;
+    color: black;
+    text-decoration: none;
+    border: 3px dotted navy;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+footer  {
+    background-color: lightblue;
+}
+
+.jt {
+    float: right;
+    font-size: 40px;
+}
+
+.qw {
+    border:3px dotted navy;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    transition: 2s ease-in;
+    transform: scale(2);
+    opacity: 0.8;
+    background-color: blueviolet;
+    color: black;
+    font-size: 30px;
+}
+.lkjj {
+    position: relative;
+    top: 20px;
+}
+
+.lsde {
+    text-align: center;
+    font-size: 40px;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-image: linear-gradient( red, green, blue);
+    color: black;
+    text-decoration: none;
+}
